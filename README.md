@@ -1,4 +1,9 @@
+
 IdlePlanet
 
+See How our planet is compose block to block ,
 
-Hope you like !! 
+To Play on windows x64 only have to download Release folder 
+
+Hope you like, have fun  !! 
+
