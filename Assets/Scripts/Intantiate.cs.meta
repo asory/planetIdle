@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c5adeaf8f92336409ce6adb7651f635
+timeCreated: 1566542613
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - equipPrefab: {fileID: 1863392457958568, guid: d905850a362e483499113f16cd914bfa,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
